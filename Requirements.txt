@@ -1,0 +1,15 @@
+streamlit
+pandas
+geopandas
+scikit-learn
+folium
+matplotlib
+seaborn
+shapely
+pyproj
+plotly
+descartes
+fiona
+requests
+pydeck
+osmnx
