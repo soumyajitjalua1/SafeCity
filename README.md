@@ -35,7 +35,7 @@ This project is designed to provide advanced crime data analysis and visualizati
 
 4. **Install dependencies:**
     ```sh
-    pip install -r Requirements.txt
+    pip install -r requirements.txt
     ```
 
 5. **Run the application:**
