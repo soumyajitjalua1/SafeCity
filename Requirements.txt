@@ -1,0 +1,8 @@
+Python 
+Pandas
+GeoPandas
+Scikit-learn
+Folium
+Streamlit
+Matplotlib
+Seaborn
