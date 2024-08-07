@@ -74,7 +74,7 @@ def main():
     st.title("SafeCity: An Advanced Crime Data Analysis and Visualization")
 
     # Default file path
-    default_file_path = 'C:/Users/soumy/LLM/centemental analysis/crimedata_csv_all_years.csv'
+    default_file_path = 'crimedata_csv_all_years.csv'
     
     # File uploader
     uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
