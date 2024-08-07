@@ -13,3 +13,5 @@ fiona
 requests
 pydeck
 osmnx
+streamlit-folium
+rtree
