@@ -5,13 +5,4 @@ scikit-learn
 folium
 matplotlib
 seaborn
-shapely
-pyproj
-plotly
-descartes
-fiona
-requests
-pydeck
-osmnx
 streamlit-folium
-rtree
