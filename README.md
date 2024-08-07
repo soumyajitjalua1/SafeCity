@@ -14,7 +14,7 @@ This project is designed to provide advanced crime data analysis and visualizati
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/crime-data-analysis.git
+    git clone https://github.com/soumyajitjalua1/SafeCity.git
     cd crime-data-analysis
     ```
 
@@ -35,7 +35,7 @@ This project is designed to provide advanced crime data analysis and visualizati
 
 4. **Install dependencies:**
     ```sh
-    pip install -r requirements.txt
+    pip install -r Requirements.txt
     ```
 
 5. **Run the application:**
